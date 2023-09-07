@@ -9,7 +9,6 @@ Welcome to the To-Do List Web Application repository! This project is a simple w
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
@@ -45,8 +44,5 @@ To get started with this project, follow these steps:
 
 Contributions to this project are welcome. If you have ideas for improvements or find any issues, please open an issue or submit a pull request. We'd love to see your contributions!
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE). Feel free to use it as a reference or customize it for your own projects.
 
 Happy task management!
